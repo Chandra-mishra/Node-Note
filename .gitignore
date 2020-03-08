@@ -1,0 +1,7 @@
+/server/node_modules/
+/admin_panel/node_modules/
+/server/uploads/
+/server/temp/
+/server/.env
+/server/package-lock.json
+/admin_panel/package-lock.json
